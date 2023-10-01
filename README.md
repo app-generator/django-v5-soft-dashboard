@@ -4,7 +4,7 @@ Open-source **Django** project crafted on top of **[Soft UI Dashboard](https://a
 Designed for those who like bold elements and beautiful websites. Made of hundreds of elements, designed blocks and fully coded pages, `Soft UI Dashboard` is ready to help you create stunning websites and web apps.
 
 - 👉 Read more about **[Django 5 Release Highlights](https://blog.appseed.us/django-5-release-summary-and-sample/)**
-- 🚀 See more **[Open-source and Free Django 5 Starters](https://github.com/app-generator/django-5-release-free-samples)**  
+- 🚀 See more **[Open-source Django 5 Starters](https://github.com/app-generator/django-5-release-free-samples)**  
 
 <br />
 
