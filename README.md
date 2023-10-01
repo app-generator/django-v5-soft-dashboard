@@ -1,17 +1,16 @@
-# [Django Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/)
+# Django v5 [Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/)
 
 Open-source **Django** project crafted on top of **[Soft UI Dashboard](https://appseed.us/product/soft-ui-dashboard/django/)**, an open-source `Bootstrap 5` design from `Creative-Tim`.
-Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, `Soft UI Dashboard` is ready to help you create stunning websites and webapps.
+Designed for those who like bold elements and beautiful websites. Made of hundreds of elements, designed blocks and fully coded pages, `Soft UI Dashboard` is ready to help you create stunning websites and web apps.
 
-- 👉 [Django Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/) - `Product page`
-- 👉 [Django Soft Dashboard](https://django-soft-dash.onrender.com) - `LIVE Demo`
-- 🛒 **[Django Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)** - `Premium Version`
+- 👉 Read more about **[Django 5 Release Highlights](https://blog.appseed.us/django-5-release-summary-and-sample/)**
+- 🚀 See more **[Open-source and Free Django 5 Starters](https://github.com/app-generator/django-5-release-free-samples)**  
 
 <br />
 
 > Features: 
 
-- ✅ `Up-to-date Dependencies`
+- ✅ `Up-to-date Dependencies` - **Django v5.x**
 - ✅ Theme: [Django Admin Soft](https://github.com/app-generator/django-admin-soft-dashboard), designed by [Creative-Tim](https://www.creative-tim.com/product/soft-ui-dashboard?AFFILIATE=128200)
   - `can be used in any Django project` (new or legacy)
 - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
@@ -30,8 +29,8 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-soft-ui-dashboard.git
-$ cd django-soft-ui-dashboard
+$ git clone https://github.com/app-generator/django-v5-soft-dashboard.git
+$ cd django-v5-soft-dashboard
 ```
 
 <br />
@@ -70,6 +69,21 @@ $ python manage.py runserver
 ```
 
 At this point, the app runs at `http://127.0.0.1:8000/`. 
+
+<br />
+
+## **Deploy on Render**
+
+- Create a Blueprint instance
+  - Go to https://dashboard.render.com/blueprints this link.
+- Click `New Blueprint Instance` button.
+- Connect your `repo` which you want to deploy.
+- Fill the `Service Group Name` and click on the `Update Existing Resources` button.
+- Edit the Environment and [specify the PYTHON_VERSION](https://render.com/docs/python-version)
+  - Version `3.11.5` was used for **[this deployment](https://django-v5-datta.onrender.com/)**
+- After that, your deployment will start automatically.
+
+At this point, the product should be LIVE.
 
 <br />
 
@@ -131,19 +145,6 @@ $success:       #82d616 !default;   // EDIT for customization
 $warning:       #fbcf33 !default;   // EDIT for customization 
 $danger:        #ea0606 !default;   // EDIT for customization 
 ```
-
-<br />
-
-## Deploy on [Render](https://render.com/)
-
-- Create a Blueprint instance
-  - Go to https://dashboard.render.com/blueprints this link.
-- Click `New Blueprint Instance` button.
-- Connect your `repo` which you want to deploy.
-- Fill the `Service Group Name` and click on `Update Existing Resources` button.
-- After that your deployment will start automatically.
-
-At this point, the product should be LIVE.
 
 <br />
 
