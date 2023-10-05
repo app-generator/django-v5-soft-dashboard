@@ -1,6 +1,6 @@
 # Django v5 [Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/django/)
 
-Open-source **Django** project crafted on top of **[Soft UI Dashboard](https://appseed.us/product/soft-ui-dashboard/django/)**, an open-source `Bootstrap 5` design from `Creative-Tim`.
+Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** crafted on top of **Soft UI Dashboard**, an open-source `Bootstrap 5` design from `Creative-Tim`.
 Designed for those who like bold elements and beautiful websites. Made of hundreds of elements, designed blocks and fully coded pages, `Soft UI Dashboard` is ready to help you create stunning websites and web apps.
 
 - 👉 Read more about **[Django 5 Release Highlights](https://blog.appseed.us/django-5-release-summary-and-sample/)**
